@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /presentations/
+title: presentations
 description: 
 nav: true
 nav_order: 5
