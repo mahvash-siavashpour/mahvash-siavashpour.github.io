@@ -7,17 +7,22 @@ nav: true
 nav_order: 5
 ---
 
-<h3>Teaching Assistant</h2>
-<b>Amirkabir University of Technology</b> Tehran, Iran
+<h4>
+    <i>Teaching Assistant</i>
+</h4>
+<h5>
+    Amirkabir University of Technology, Tehran, Iran
+</h5>
+<h6>
+    Fall 2019 - Present
+</h6>
 <br>
-from fall 2019 - now
-<br>
-<br>
-
-Computer Architecture, Dr. Hamed Farbeh 
-Information Retrieval, Dr. Ahmad Nickabadi 
-Algorithm Design, Dr. Alireza Bagheri
-Linear Algebra, Dr. Mostafa Haghir Chehraghani
-Linear Algebra, Dr. Ehsan Nazerfard 
-Advanced Programming, Dr. Ehsan Edalat 
-Principles of Programming, Dr. Bahador Bakhshi
+<ul>
+    <li>Computer Architecture, Prof. Hamed Farbeh</li>
+    <li>Information Retrieval, Prof. Ahmad Nickabadi</li>
+    <li>Algorithm Design, Prof. Alireza Bagheri</li>
+    <li>Linear Algebra, Prof. Mostafa Haghir Chehraghani</li>
+    <li>Linear Algebra, Prof. Ehsan Nazerfard</li>
+    <li>Advanced Programming, Prof. Ehsan Edalat</li>
+    <li>Principles of Programming, Prof. Bahador Bakhshi</li>
+</ul>
