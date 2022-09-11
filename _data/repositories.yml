@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mahvash-siavashpour
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mahvash-siavashpour/Data-Mining-Excercise
+  - mahvash-siavashpour/ComputationalIntelligence-EvolutionaryGame
+  - mahvash-siavashpour/IoT
+  - mahvash-siavashpour/Fuzzy-C-Means
+

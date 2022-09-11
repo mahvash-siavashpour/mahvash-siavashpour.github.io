@@ -13,7 +13,7 @@ nav_order: 1
 <h2 class="year">International</h2>
 <br>
 <br>
-<p>A.Dadras, M.Siavashpour, AHH Rasanan, JA Rad, <b>"ANN-EAM: An Artificial Neural Network-Evidence Accumulation Framework for Modeling of Human Lexical Decision-Making"</b><p>
+<p>A Dadras, M Siavashpour, AHH Rasanan, JA Rad, <b>"ANN-EAM: An Artificial Neural Network-Evidence Accumulation Framework for Modeling of Human Lexical Decision-Making"</b><p>
 <p>submitted to AAAI conference 2023</p>
 
 <h2 class="year">Course Publications</h2>
