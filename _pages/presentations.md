@@ -8,13 +8,10 @@ nav_order: 5
 ---
 
 <h4>
-    <i>Teaching Assistant</i>
+    <i>Presentations</i>
 </h4>
-<h5>
-    Amirkabir University of Technology, Tehran, Iran
-</h5>
 <h6>
-    Fall 2019 - Present
+    Fall 2020 - Present
 </h6>
 <br>
 <ul>
