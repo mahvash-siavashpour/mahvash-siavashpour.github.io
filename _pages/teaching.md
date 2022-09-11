@@ -2,11 +2,22 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<h3>Teaching Assistant</h2>
+<b>Amirkabir University of Technology</b> Tehran, Iran
+<br>
+from fall 2019 - now
+<br>
+<br>
 
-Organize your courses by years, topics, or universities, however you like!
+Computer Architecture, Dr. Hamed Farbeh 
+Information Retrieval, Dr. Ahmad Nickabadi 
+Algorithm Design, Dr. Alireza Bagheri
+Linear Algebra, Dr. Mostafa Haghir Chehraghani
+Linear Algebra, Dr. Ehsan Nazerfard 
+Advanced Programming, Dr. Ehsan Edalat 
+Principles of Programming, Dr. Bahador Bakhshi
