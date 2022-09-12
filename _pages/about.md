@@ -16,5 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Mahvash Siavashpour, a senior student at Amirkabir University of Technology. I am majoring in artificial intelligence. My research is currently focused on machine learning and nlp and I have two years of research experience in these fileds.
+
+I am currently a senior undergraduate student at the Amirkabir University of Technology. My research interests include machine learning and deep learning and their applications in natural language processing and computer vision. I have been actively doing research in these fields for the past two years and am still working on several research projects. My research goal is to introduce innovative approaches that solve practical problems in natural language processing and computer vision.
+
+Besides my enthusiasm for developing deep learning models, I am determined to strengthen and expand my knowledge by teaching. As a result, I have volunteered as a teaching assistant in numerous courses and academic events. 
+
 
