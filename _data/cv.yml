@@ -69,7 +69,7 @@
       items: 
         - Awarded the 1st place in Demo Open Challenge, IranOpen
 
-- title: Academic Interests
+- title: Research Interests
   type: list
   contents:
     - Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Medical Image Analysis
@@ -80,5 +80,15 @@
   contents:
     - title: Programming Languages
       items: Python, C/C++, Java, Stan, JavaScript, Bash
+
+    - title: Data Science Frameworks
+      items: PyTorch, Tensorflow, Matplotlib, Pandas, Keras, CmdStanPy, Scikit-learn
+
+    - title: Tools
+      items: LaTeX, Git, Arduino, Prezi, Postman
+    
+    - title: Web Programming
+      items: Vue, Flask, HTML5, CSS
+
 
 
