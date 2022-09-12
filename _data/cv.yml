@@ -15,7 +15,7 @@
       description:
         - GPA:18.85/20 = 3.91/4
         - GPA Over Past Two Years:19.64/20 = 4/4
-        - title: Description 3.
+
     - title: High School Diploma in Mathematics and Physics
       institution: Farzanegan2 High School(NODET), Tehran, Iran
       year: 2014 - 2018
@@ -52,37 +52,33 @@
           - Worked on Machine Learning and Decision-Making problems
 
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020-2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Announced as the Outstanding Student, Amirkabir University of Technology
+    - year: 2018
       items: 
-        - Max Planck Medal
+        - Awarded the 1st place in ACM ICPC (Juniors), Amirkabir University of Technlogy
+        - Ranked in top 0.5% among 144,437 students, Iranian University Entrance Exam for B.Sc
+    - year: 2017
+      items: 
+        - Awarded the 1st place in Science Engineering Conference, University of Tehran
+    - year: 2016
+      items: 
+        - Awarded the 1st place in Demo Open Challenge, IranOpen
 
 - title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Medical Image Analysis
+  
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items: Python, C/C++, Java, Stan, JavaScript, Bash
+
+
