@@ -16,7 +16,6 @@
         - GPA:18.85/20 = 3.91/4
         - GPA Over Past Two Years:19.64/20 = 4/4
         - title: Description 3.
-          contents:
     - title: High School Diploma in Mathematics and Physics
       institution: Farzanegan2 High School(NODET), Tehran, Iran
       year: 2014 - 2018
@@ -33,7 +32,6 @@
         - Implementation of an automatic punctuation and paragraph restoration model in Persian
         - Applied Transfer Learning on a pre-trained BERT model
         - Combined BERT with LSTM and ANN and experimented with different loss functions
-          contents:
           
     - title: Research Intern
       institution: Institute for Cognitive and Brain Sciences, Tehran, Iran
