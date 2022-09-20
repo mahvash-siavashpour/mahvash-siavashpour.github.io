@@ -7,14 +7,14 @@ importance: 3
 category: AI
 ---
 
-One of the most famous machine learning and vision tasks is handwritten digit recognition. One can use multiple libraries to do this job, but in this project the neural network is implemented from scratch and train it for handwritten digit recognition task. 
+One of the most famous machine learning and computer vision tasks is handwritten digit recognition. One can use multiple libraries to do this job, but in this project the neural network is implemented from scratch and trained for handwritten digit recognition task. 
 
 
 ## Implementation of the ANN
 To implement this network, I used 28*28 = 784 neurons in the first layer, each representing a single pixel in the input image. There are also ten neurons in the last layer, one neuron for every digit. Finally, there are two hidden layers with sixteen neurons each.
 I implemented the learning phase using the pseudo-code below:
 <br>
-<img src="assets/img/sudo-code.png" alt="sudo-code"  width="450"/>
+<img src="../assets/img/sudo-code.png" alt="sudo-code"  width="450"/>
 <br>
 In order to train the network, we first need to get the appropriate dataset. I used the MNIST dataset containing 60,000 handwritten digit images in the train section and 10,000 more in the test section.
 <br>
