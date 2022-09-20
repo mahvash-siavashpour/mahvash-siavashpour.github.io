@@ -44,5 +44,5 @@ After preprocessing the data and tokenizing, it is fed into the model. The model
 ## Results
 The results during the training phase after each epoch are shown bellow:
 <br>
-<img src="assets/img/kare-ezafeh-table.png" alt="sudo-code"  width="450"/>
+{% include figure.html path="assets/img/kare-ezafeh-table.png" title="table" class="img-fluid rounded z-depth-1" %}
 <br>
