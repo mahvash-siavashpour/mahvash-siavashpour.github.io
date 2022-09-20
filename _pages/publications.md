@@ -19,4 +19,4 @@ nav_order: 1
 <h2 class="year">Course Publications</h2>
 <br>
 <br>
-<p><b>M Siavashpour</b>, R Safabakhsh, <b>"A Look into the Application of Machine Learningin in the Diagnosis and Grading of Cataract Eye Disease"</b>,  Research and Technical Presentation course, Amirkabir University of Technology</p>
+<p><b>M Siavashpour</b>, R Safabakhsh, <b>"A Look into the Application of Machine Learning in the Diagnosis and Grading of Cataract Eye Disease"</b>,  Research and Technical Presentation course, Amirkabir University of Technology</p>
