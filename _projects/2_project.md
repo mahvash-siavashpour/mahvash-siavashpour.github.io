@@ -43,8 +43,6 @@ After preprocessing the data and tokenizing, it is fed into the model. The model
 
 ## Results
 The results during the training phase after each epoch are shown bellow:
-|Epoch  |F1           |Accuracy		|
-|-------|-------------|-------------|
-|1		|0.930487     |0.985994     |
-|2      |0.939853     |0.987362     |
-|3      |0.940642	  |0.987561     |
+<br>
+<img src="assets/img/kare-ezafeh-table.png" alt="sudo-code"  width="450"/>
+<br>
