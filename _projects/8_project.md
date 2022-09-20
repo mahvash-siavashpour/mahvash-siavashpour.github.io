@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fuzzy K-Means
-description: an implementation of the famouse k-means machine learning algorithm using the Fuzzy laws
+description: An implementation of the famouse k-means machine learning algorithm using the Fuzzy laws
 img: assets/img/fuzzy k-means.jpg
 importance: 4
 category: AI
