@@ -12,9 +12,12 @@ In this project I (Mahvash Siavashpour) implemented an evolutionary algorithm th
 
 
 ## Game Modes
-Helicopter             |  Gravity          |  Thrust
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/HosseinZaredar/EvolutionaryGames/blob/main/screenshots/helicopter.png?raw=true" alt="Helicopter" width="250"/>  |  <img src="https://github.com/HosseinZaredar/EvolutionaryGames/blob/main/screenshots/gravity.png?raw=true" alt="Gravity" width="250"/> | <img src="https://github.com/HosseinZaredar/EvolutionaryGames/blob/main/screenshots/thrust.png?raw=true" alt="Thrust" width="250"/>
+Helicopter            <br>
+<img src="https://github.com/HosseinZaredar/EvolutionaryGames/blob/main/screenshots/helicopter.png?raw=true" alt="Helicopter" width="300"/> <br>
+ Gravity          <br>
+<img src="https://github.com/HosseinZaredar/EvolutionaryGames/blob/main/screenshots/gravity.png?raw=true" alt="Gravity" width="300"/><br>
+Thrust <br>
+<img src="https://github.com/HosseinZaredar/EvolutionaryGames/blob/main/screenshots/thrust.png?raw=true" alt="Thrust" width="300"/>
 
 ## Contributors
 - [Mahvash Siavashpour](https://github.com/mahvash-siavashpour)
