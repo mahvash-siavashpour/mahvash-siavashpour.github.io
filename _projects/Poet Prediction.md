@@ -2,14 +2,15 @@
 layout: page
 title: Poet Prediction Using N-Grams
 description: Predicting the poets of poems using uni-gram and bi-gram models
-img:
+img: assets/img/poems.png
 importance: 7
 category: AI
 ---
 This code uses some train sets to learn the n-grams (n=1, 2). These train sets each include the poems from a specific poet. Then the code uses these n-grams in a back-off model to predict the poets of each poem. It also provides accuracy for the model.
 
 ## Data
-The training dataset contains poems from 3 great Persian poets: Ferdowsi, Hafez, Molavi. The training dataset can be found [here](https://github.com/mahvash-siavashpour/ngram-persian-poem-classification/tree/master/train_set).
+The training dataset contains poems from 3 great Persian poets: Ferdowsi, Hafez, Molavi. The training dataset can be found [here](https://github.com/mahvash-siavashpour/ngram-persian-poem-classification/tree/master/train_set).<br>
+Sample poems:
 <br>
 {% include figure.html path="assets/img/poems.png" title="table" class="img-fluid rounded z-depth-1" %}
 <br>
