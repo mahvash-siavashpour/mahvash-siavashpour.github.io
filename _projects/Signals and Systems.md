@@ -20,21 +20,17 @@ Using this implementation it is possible to plot functions both descrete and con
 ### Discrete Convolve
 Discrete convolve in a very importatnt mathematical tool used in signal processing. In this project a python code is written that implements this mathematical method. Some of the outputs of this project in illustrated:
 <br>
-{% include figure.html path="assets/img/convolve1.png" title="convolve" class="img-fluid rounded z-depth-1" %}
-<br>
-{% include figure.html path="assets/img/convolve2.png" title="convolve" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/convolve1.png" title="convolve" class="img-fluid rounded z-depth-1" max_width=300 %}
+{% include figure.html path="assets/img/convolve2.png" title="convolve" class="img-fluid rounded z-depth-1" max_width=300 %}
 <br>
 
 ### Fourier Series
 Fourier series can be written as the summation of sinus and cosinus. If we follow this summation to the k=c, we will obtain an approximation of the signal x(t). The bigger the c, the more accurate the approximation. I have tested two function with k=10 and here are some of the approximations along the way.
 <br>
-{% include figure.html path="assets/img/ft1.png" title="ft" class="img-fluid rounded z-depth-1" width=200 %}
-<br>
-{% include figure.html path="assets/img/ft2.png" title="ft" class="img-fluid rounded z-depth-1" %}
-<br>
-{% include figure.html path="assets/img/ft3.png" title="ft" class="img-fluid rounded z-depth-1" %}
-<br>
-{% include figure.html path="assets/img/ft4.png" title="ft" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/ft1.png" title="ft" class="img-fluid rounded z-depth-1" max_width=200 %}
+{% include figure.html path="assets/img/ft2.png" title="ft" class="img-fluid rounded z-depth-1" max_width=200 %}
+{% include figure.html path="assets/img/ft3.png" title="ft" class="img-fluid rounded z-depth-1" max_width=200 %}
+{% include figure.html path="assets/img/ft4.png" title="ft" class="img-fluid rounded z-depth-1" max_width=200 %}
 <br>
 
 ### Voice Code
