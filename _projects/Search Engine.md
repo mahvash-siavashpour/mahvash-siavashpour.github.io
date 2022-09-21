@@ -26,7 +26,7 @@ To reduce memory usage index elimination was applied. Moreover, for faster retri
 {% include figure.html path="assets/img/cosine.png" title="sudo-code" class="img-fluid rounded z-depth-1" %}
 <br>
 
-## Machine Learning and Document Retrieval
+## Machine learning applied in document retrieval
 For this section, the dataset was expanded to include many more documents and in order to index and retrieve the new dataset in an efficient way some machine learning algorithms were applied.
  
  ### 1) K-Means Clustering
