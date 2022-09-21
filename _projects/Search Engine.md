@@ -29,8 +29,8 @@ To reduce memory usage index elimination was applied. Moreover, for faster retri
 ## Machine Learning and Document Retrieval
 For this section, the dataset was expanded to include many more documents and in order to index and retrieve the new dataset in an efficient way some machine learning algorithms were applied.
  
- #### 1.K-Means Clustering
+ ### 1) K-Means Clustering
  K-Means algorithm was applied to cluster the documents into smaller groups with a center representing the cluster. As a result, when a new query arrives its similarity is first calculated with only the centers of the clusters and then with the documents in the most similar cluster. The way we can imporve the time efficiecy of the search engine.
  
- #### 2. KNN Classification
+ ### 2) KNN Classification
 Another way of searching for a specific document is with searching in the category. Cosequently, I used KNN to classify Documents with no label and then process the query based on these labels.
