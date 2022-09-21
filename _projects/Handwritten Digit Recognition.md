@@ -35,6 +35,5 @@ The following plot shows the cost function output in each epoch of training the 
 <br>
 I tested the results with 200 epochs and 500 samples and the final accuracy increased by more than 10 percent. I also did the same test with the hyperbolic tangent as the activation function. The ploting of each of these tests are illustrated below:
 <br>
-<img src="assets/img/plt2.png" alt="plot2"  width="450"/>
 {% include figure.html path="assets/img/plt2.png" title="plot2" class="img-fluid rounded z-depth-1" %}
 <br>
