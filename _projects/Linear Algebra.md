@@ -2,7 +2,7 @@
 layout: page
 title: Linear Albegra Mini Projects
 description: 4 mini projects in data mining
-img: assets/img/fuzzy k-means.jpg
+img: assets/img/linea-algebra.png
 importance: 9
 category: AI
 ---
