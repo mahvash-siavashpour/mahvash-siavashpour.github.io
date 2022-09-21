@@ -4,7 +4,7 @@ title: Poet Prediction Using N-Grams
 description: Predicting the poets of poems using uni-gram and bi-gram models
 img: assets/img/poems.png
 importance: 7
-category: AI
+category: Artificial Intelligence
 ---
 This code uses some train sets to learn the n-grams (n=1, 2). These train sets each include the poems from a specific poet. Then the code uses these n-grams in a back-off model to predict the poets of each poem. It also provides accuracy for the model.
 

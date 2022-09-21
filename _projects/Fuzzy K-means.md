@@ -4,7 +4,7 @@ title: Fuzzy K-Means
 description: An implementation of the famouse k-means machine learning algorithm using the Fuzzy laws
 img: assets/img/fuzzy k-means.jpg
 importance: 6
-category: AI
+category: Artificial Intelligence
 ---
 
 In This project I tried to implement fuzzy c-means algorithms which is a clustering algorithm similar to k-means. As in the name of the project it is implemented using fuzzy values and rules.

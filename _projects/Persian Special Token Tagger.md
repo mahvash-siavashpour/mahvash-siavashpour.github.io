@@ -4,7 +4,7 @@ title: Persian Special Token Tagger
 description: Tagging tokens in a sentence with special Persian annotations called Kasr-E-Ezafeh
 img: assets/img/Kasr-E-Ezafeh.png
 importance: 2
-category: AI
+category: Artificial Intelligence
 ---
 
 Each persion word in a sentance either has a Kasr-e Eafeh or it does not. Kas-e Ezafeh comes in 3 different forms as shown bellow:

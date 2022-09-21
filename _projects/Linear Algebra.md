@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Linear Albegra Mini Projects
-description: 4 mini projects in data mining
+description: 4 mini projects in linear algebra
 img: assets/img/linea-algebra.png
 importance: 9
-category: AI
+category: Artificial Intelligence
 ---
 There 5 different project here that each cover a different section in the data mining world; from preprocessing and analyzing data to classification, clustering, etc.
 ## Project List

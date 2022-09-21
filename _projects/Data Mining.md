@@ -4,7 +4,7 @@ title: Data Mining Course Projects
 description: 5 mini projects in data mining
 img: assets/img/data-mining.png
 importance: 1
-category: AI
+category: Artificial Intelligence
 ---
 There 5 different project here that each cover a different section in the data mining world; from preprocessing and analyzing data to classification, clustering, etc.
 ## Project List

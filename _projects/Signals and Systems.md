@@ -4,7 +4,7 @@ title: Signals and Systems Course Projects
 description: Different mini projects implemented as the course projects in the signals and systems course
 img: assets/img/signal.png
 importance: 4
-category: AI
+category: Artificial Intelligence
 ---
 In this project a series of implementations were done related to the signals and systems course. The list of the projects are as bellow.
 

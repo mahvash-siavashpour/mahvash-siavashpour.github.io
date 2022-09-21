@@ -4,7 +4,7 @@ title: Evolutionary Algorithm Application in Game Learning
 description: An evolutionary algorithm able to learn how to play an obstacle crossing game
 img: assets/img/evolution.png
 importance: 7
-category: AI
+category: Artificial Intelligence
 ---
 
 In this project I (Mahvash Siavashpour) implemented an evolutionary algorithm that learns to play this game in 3 different modes and after some generations of playing it becomes unbeatable and can play for an eternity without loosing.

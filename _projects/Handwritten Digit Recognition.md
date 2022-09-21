@@ -4,7 +4,7 @@ title: Handwritten Digit Recognition
 description: Implementation of a FCNN from scratch through mathematical calculations
 img: assets/img/digit-recognition.png
 importance: 3
-category: AI
+category: Artificial Intelligence
 ---
 
 One of the most famous machine learning and computer vision tasks is handwritten digit recognition. One can use multiple libraries to do this job, but in this project the neural network is implemented from scratch and trained for handwritten digit recognition task. 
