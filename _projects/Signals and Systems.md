@@ -28,7 +28,7 @@ Discrete convolve in a very importatnt mathematical tool used in signal processi
 ### Fourier Series
 Fourier series can be written as the summation of sinus and cosinus. If we follow this summation to the k=c, we will obtain an approximation of the signal x(t). The bigger the c, the more accurate the approximation. I have tested two function with k=10 and here are some of the approximations along the way.
 <br>
-{% include figure.html path="assets/img/ft1.png" title="ft" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/ft1.png" title="ft" class="img-fluid rounded z-depth-1" width=200 %}
 <br>
 {% include figure.html path="assets/img/ft2.png" title="ft" class="img-fluid rounded z-depth-1" %}
 <br>
