@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Classic AI Search Algorithms for Hanabi Card Game
+title: Classic AI Search Algorithms Solving Hanabi Card Game
 description: Solving a card game using different classical serach algorithms such as BFS, IDS and A*
 img: assets/img/card-game.png
 importance: 8
