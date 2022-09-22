@@ -11,14 +11,14 @@
   contents:
     - title: Bachelor of Science in Computer Engineering
       institution: Amirkabir University of Technology, Tehran, Iran
-      year: 22018/9 - 2023/3 (Expected)
+      year: 22018 - 2023 (Expected)
       description:
         - GPA:18.85/20 = 3.91/4
         - GPA Over Past Two Years:19.64/20 = 4/4
 
     - title: High School Diploma in Mathematics and Physics
       institution: Farzanegan2 High School(NODET), Tehran, Iran
-      year: 2014/9 - 2018/7
+      year: 2014 - 2018
       description:
         - GPA:19.92/20 = 4/4
 
@@ -37,6 +37,7 @@
     - title: Research Intern
       institution: Institute for Cognitive and Brain Sciences, Tehran, Iran
       year: 2021/10 - Now
+      description:
           - Modeled human lexical decision-making process 
           - Combined Machine Learning models with Evidence Accumulation models
           - Bayesian approach used in fitting the behavioral data
