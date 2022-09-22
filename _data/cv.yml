@@ -11,14 +11,14 @@
   contents:
     - title: Bachelor of Science in Computer Engineering
       institution: Amirkabir University of Technology, Tehran, Iran
-      year: 2018 - 2023(Expected)
+      year: 22018/9 - 2023/3 (Expected)
       description:
         - GPA:18.85/20 = 3.91/4
         - GPA Over Past Two Years:19.64/20 = 4/4
 
     - title: High School Diploma in Mathematics and Physics
       institution: Farzanegan2 High School(NODET), Tehran, Iran
-      year: 2014 - 2018
+      year: 2014/9 - 2018/7
       description:
         - GPA:19.92/20 = 4/4
 
@@ -27,35 +27,37 @@
   contents:
     - title: Research Assistant
       institution: Amirkabir University of Technology,  Tehran, Iran
-      year: 2022 - Now
+      year: 2022/3 - Now
       description:
-        - Implementation of an automatic punctuation and paragraph restoration model in Persian
-        - Applied Transfer Learning on a pre-trained BERT model
-        - Combined BERT with LSTM and ANN and experimented with different loss functions
+          - Implemented an automatic punctuation and paragraph restoration model in Persian
+          - Applied Transfer Learning on a pre-trained BERT model
+          - Combined BERT with LSTM and MLP and experimented with different architectures
+          - Experimented with different weighting schemes for unbalanced labels in punctuation prediction task
           
     - title: Research Intern
       institution: Institute for Cognitive and Brain Sciences, Tehran, Iran
-      year: 2021 - Now
-      description:
-         - Modeled human lexical Decision-Making process 
-         - Combined Machine Learning models with Evidence Accumulation model
-         - Bayesian approach used in fitting the behavioral data
-         - NLP models such as FastText and BERT were utilized for word embedding extraction
-         - ML models such as ANN, SVM and Random Forest were utilized for classification
+      year: {2021/10 - Now
+          - Modeled human lexical decision-making process 
+          - Combined Machine Learning models with Evidence Accumulation models
+          - Bayesian approach used in fitting the behavioral data
+          - NLP models such as FastText and BERT were utilized for word embedding extraction
+          - ML models such as fully connected NN, SVM and Random Forest were utilized for classification
 
     - title: Research Intern
       institution: Institue for Research in Fundamental Sciences (IPM), Tehran, Iran
-      year: 2021 - 2022
+      year: 2021/7 - 2022/9
       description:
-          - Trained a combination of CNN and Sequential Sampling models for Decision-Making
-          - Implemented a fully connected Bayesian Neural Network in Stan
-          - Worked on Machine Learning and Decision-Making problems
+          - Modeled human lexical decision-making process 
+          - Combined Machine Learning models with Evidence Accumulation models
+          - Bayesian approach used in fitting the behavioral data
+          - NLP models such as FastText and BERT were utilized for word embedding extraction
+          - ML models such as fully connected NN, SVM and Random Forest were utilized for classification
 
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2020-2022
+    - year: 2020
       items: 
         - Announced as the Outstanding Student, Amirkabir University of Technology
     - year: 2018
@@ -64,10 +66,11 @@
         - Ranked in top 0.5% among 144,437 students, Iranian University Entrance Exam for B.Sc
     - year: 2017
       items: 
-        - Awarded the 1st place in Science Engineering Conference, University of Tehran
+        - Awarded the 1st place in the Robotic and Mechatronic field in the 3rd Engineering Science Conference
+          competitions, University of Tehran
     - year: 2016
       items: 
-        - Awarded the 1st place in Demo Open Challenge, IranOpen
+        - Awarded the 1st place in Junior Demo Open Challenge, Robocup Iran Open 2016 competitions
 
 - title: Research Interests
   type: list
@@ -82,10 +85,10 @@
       items: Python, C/C++, Java, Stan, JavaScript, Bash
 
     - title: Data Science Frameworks
-      items: PyTorch, Tensorflow, Matplotlib, Pandas, Keras, CmdStanPy, Scikit-learn
+      items: PyTorch, Tensorflow, Matplotlib, Pandas, Keras, CmdStanPy, Scikit-Learn
 
     - title: Tools
-      items: LaTeX, Git, Arduino, Prezi, Postman
+      items: LaTeX, Git, Arduino, Prezi
     
     - title: Web Programming
       items: Vue, Flask, HTML5, CSS
