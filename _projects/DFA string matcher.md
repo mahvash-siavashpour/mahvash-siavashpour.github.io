@@ -6,6 +6,7 @@ img: assets/img/dfa.png
 importance: 1
 category: Other
 ---
+[Link to Github](https://github.com/mahvash-siavashpour/Theory-of-Machines-and-Languages) <br>
 This project contains 2 sub-projects implemented using Java. <br>
 1. [Construction on a DFA machine that can match string](https://github.com/mahvash-siavashpour/Theory-of-Machines-and-Languages/tree/master/Recognize-DFA)
 2. [Implementation of an NFA to DFA concerter](https://github.com/mahvash-siavashpour/Theory-of-Machines-and-Languages/tree/master/NFA-to-DFA)

@@ -6,6 +6,7 @@ img: assets/img/card-game.png
 importance: 8
 category: Artificial Intelligence
 ---
+[Link to Github](https://github.com/mahvash-siavashpour/Artificial-Intelligence-Search-Algorithms) <br>
  In this project three different search algorithms were implemented using Java in irder to solve Hanabi card game. The search algorithms implemented are as follow:<br>
  - BFS
  - IDS

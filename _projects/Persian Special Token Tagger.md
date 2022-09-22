@@ -6,7 +6,7 @@ img: assets/img/Kasr-E-Ezafeh.png
 importance: 2
 category: Artificial Intelligence
 ---
-
+[Link to Github](https://github.com/mahvash-siavashpour/BERT-Token-Classification-for-Persian-Kasr-e-Ezafeh) <br>
 Each persion word in a sentance either has a Kasr-e Eafeh or it does not. Kas-e Ezafeh comes in 3 different forms as shown bellow:
 - @e
 - e 

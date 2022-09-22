@@ -6,6 +6,7 @@ img: assets/img/data-mining.png
 importance: 1
 category: Artificial Intelligence
 ---
+[Link to Github](https://github.com/mahvash-siavashpour/Data-Mining-Excercise) <br>
 There 5 different project here that each cover a different section in the data mining world; from preprocessing and analyzing data to classification, clustering, etc.
 ## Project List
 - [Analysing Iris Dataset](https://github.com/mahvash-siavashpour/Data-Mining-Excercise/tree/main/AnalyseIrisDataset)

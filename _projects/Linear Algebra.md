@@ -6,6 +6,7 @@ img: assets/img/linea-algebra.png
 importance: 9
 category: Artificial Intelligence
 ---
+[Link to Github](https://github.com/mahvash-siavashpour/LinearAlgebra) <br>
 There 5 different project here that each cover a different section in the data mining world; from preprocessing and analyzing data to classification, clustering, etc.
 ## Project List
 - [Estimation of Covid19 Cases](https://github.com/mahvash-siavashpour/LinearAlgebra/tree/master/EstimationCOVID19Cases)

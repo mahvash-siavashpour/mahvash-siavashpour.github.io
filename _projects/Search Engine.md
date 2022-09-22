@@ -6,6 +6,7 @@ img: assets/img/ir.png
 importance: 5
 category: Artificial Intelligence
 ---
+[Link to Github](https://github.com/mahvash-siavashpour/Information-Retrieval) <br>
 ISNA News Search Engine is an information retrieval project implemented on the [ISNA](https://www.isna.ir/) news collected in 2021. This project is implemented in 3 different sections:
 1. Simple Indexing
 2. Vector space and tf-idf ranked based retrieval

@@ -6,7 +6,7 @@ img: assets/img/digit-recognition.png
 importance: 3
 category: Artificial Intelligence
 ---
-
+[Link to Github](https://github.com/mahvash-siavashpour/HandWritten-Digit-Recognition) <br>
 One of the most famous machine learning and computer vision tasks is handwritten digit recognition. One can use multiple libraries to do this job, but in this project the neural network is implemented from scratch and trained for handwritten digit recognition task. 
 
 

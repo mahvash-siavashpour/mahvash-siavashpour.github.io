@@ -6,7 +6,7 @@ img: assets/img/evolution.png
 importance: 7
 category: Artificial Intelligence
 ---
-
+[Link to Github](https://github.com/mahvash-siavashpour/ComputationalIntelligence-EvolutionaryGame) <br>
 In this project I (Mahvash Siavashpour) implemented an evolutionary algorithm that learns to play this game in 3 different modes and after some generations of playing it becomes unbeatable and can play for an eternity without loosing.
 
 

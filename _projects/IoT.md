@@ -6,7 +6,7 @@ img: assets/img/iot.jpg
 importance: 2
 category: Other
 ---
-
+[Link to Github](https://github.com/mahvash-siavashpour/IoT) <br>
 There are a series of IoT based projecs implemented as the course work in the IoT course at Amirkabir University of Technology. <br>
 By: <br>
 > [Mahvash Siavashpour](https://github.com/mahvash-siavashpour) <br>
