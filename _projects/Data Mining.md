@@ -35,6 +35,42 @@ The main goal of this project was to practice using and finding the best classif
 In the last section of this project, the fashion_mnist dataset was imported to test the classification algorithm.
 
 ### Clustering
+In this project some clustering algorithms were used to cluster data. 
+#### 1. K-Means for Random Data
+First a set of random data was generated and then clustered using k-means algorithm. The issue with this problem is that we have to set the number of the clusters manually. To overcome this issue I used elbow method and calculated the cost function for 1 to 10 clusters and found the optimal number of clusters.
+<br>
+{% include figure.html path="assets/img/elbow.png" title="img" class="img-fluid rounded z-depth-1" %}
+<br>
+
+#### 2. K-Means for Digit Dataset
+In this section the digit dataset from Sklearn was used. K-means algorithm was applied to this dataset to group them into 10 clusters. Then the centroids were calculated. As it is shown below, the centroids almost accurately represent the labels of their clusters:
+<br>
+{% include figure.html path="assets/img/cluster-digit.png" title="img" class="img-fluid rounded z-depth-1" %}
+<br>
+
+#### 3. K-Means for Image Compression
+In this section k-means algorithms was used to compress images. To achieve this goal the clustering was performed on the colors of the image. The image was reshaped into a matrix of shape (rows*cols, 3) and then each vector in the image was gouped into one of the 4 clusters using k-means algorithm. Then the image was reshaped back into its original shape and saved. The original and compressed images are shown below:
+<br>
+{% include figure.html path="assets/img/bird.png" title="img" class="img-fluid rounded z-depth-1" %}
+<br>
+
+#### 3. DBSCAN for More Complex Data Clustering
+DBSCAN algorithm was used in this section to cluster more complex data distributions that cannot be properly clustered using k-means. To used this algorithm it is necessary to set min pts and eps properly. In order to find the optimal eps KNN algorithm was used.<br> 
+
+Howevet, the min pts was set using some rules and experiments. <br>
+The larger the data set, the larger the value of MinPts should be<br>
+If the data set is noisier, choose a larger value of MinPts<br>
+Generally, MinPts should be greater than or equal to the dimensionality of the data set<br>
+For 2-dimensional data, use DBSCAN’s default value of MinPts = 4 (Ester et al., 1996).<br>
+If your data has more than 2 dimensions, choose MinPts = 2*dim, where dim= the dimensions of your data set (Sander et al., 1998)<br>
+<br>
+
+Also having the optimal eps, min pts can be obtained via testing different values. 
+<br>
+{% include figure.html path="assets/img/minpts.png" title="img" class="img-fluid rounded z-depth-1" %}
+<br>
+
+
 
 ### Association Rule Extraction
 
