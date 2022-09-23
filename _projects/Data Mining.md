@@ -39,13 +39,13 @@ In this project some clustering algorithms were used to cluster data.
 #### 1. K-Means for Random Data
 First a set of random data was generated and then clustered using k-means algorithm. The issue with this problem is that we have to set the number of the clusters manually. To overcome this issue I used elbow method and calculated the cost function for 1 to 10 clusters and found the optimal number of clusters.
 <br>
-{% include figure.html path="assets/img/elbow.png" title="img" class="img-fluid rounded z-depth-1" width="200" %}
+{% include figure.html path="assets/img/elbow.png" title="img" class="img-fluid rounded z-depth-1" width="500" %}
 <br>
 
 #### 2. K-Means for Digit Dataset
 In this section the digit dataset from Sklearn was used. K-means algorithm was applied to this dataset to group them into 10 clusters. Then the centroids were calculated. As it is shown below, the centroids almost accurately represent the labels of their clusters:
 <br>
-{% include figure.html path="assets/img/cluster-digit.png" title="img" class="img-fluid rounded z-depth-1" width="500" %}
+{% include figure.html path="assets/img/cluster-digit.png" title="img" class="img-fluid rounded z-depth-1" width="300" %}
 <br>
 
 #### 3. K-Means for Image Compression
@@ -54,7 +54,7 @@ In this section k-means algorithms was used to compress images. To achieve this 
 {% include figure.html path="assets/img/bird.png" title="img" class="img-fluid rounded z-depth-1" width="400" %}
 <br>
 
-#### 3. DBSCAN for More Complex Data Clustering
+#### 4. DBSCAN for More Complex Data Clustering
 DBSCAN algorithm was used in this section to cluster more complex data distributions that cannot be properly clustered using k-means. To used this algorithm it is necessary to set min pts and eps properly. In order to find the optimal eps KNN algorithm was used.<br> 
 
 Howevet, the min pts was set using some rules and experiments. <br>
