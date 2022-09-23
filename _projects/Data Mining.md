@@ -45,13 +45,13 @@ First a set of random data was generated and then clustered using k-means algori
 #### 2. K-Means for Digit Dataset
 In this section the digit dataset from Sklearn was used. K-means algorithm was applied to this dataset to group them into 10 clusters. Then the centroids were calculated. As it is shown below, the centroids almost accurately represent the labels of their clusters:
 <br>
-{% include figure.html path="assets/img/cluster-digit.png" title="img" class="img-fluid rounded z-depth-1" width="300" %}
+{% include figure.html path="assets/img/cluster-digit.png" title="img" class="img-fluid rounded z-depth-1" width="500" %}
 <br>
 
 #### 3. K-Means for Image Compression
 In this section k-means algorithms was used to compress images. To achieve this goal the clustering was performed on the colors of the image. The image was reshaped into a matrix of shape (rows*cols, 3) and then each vector in the image was gouped into one of the 4 clusters using k-means algorithm. Then the image was reshaped back into its original shape and saved. The original and compressed images are shown below:
 <br>
-{% include figure.html path="assets/img/bird.png" title="img" class="img-fluid rounded z-depth-1" width="300" %}
+{% include figure.html path="assets/img/bird.png" title="img" class="img-fluid rounded z-depth-1" width="400" %}
 <br>
 
 #### 3. DBSCAN for More Complex Data Clustering
@@ -79,9 +79,9 @@ A common example of association rule discovery is "shopping cart analysis". In t
 
 Three important parameters:<br>
 
-Support shows the popularity of a set of items according to the frequency of transactions.<br>
-Confidence shows the probability of buying item y if item x is bought. x -> y<br>
-Lift is a combination of the above two parameters.<br>
+1. Support shows the popularity of a set of items according to the frequency of transactions.
+2. Confidence shows the probability of buying item y if item x is bought. x -> y
+3. Lift is a combination of the above two parameters.
 To implement association rules in this project, we use the Apriori algorithm, which is one of the most popular and efficient algorithms in this field.
 
 
