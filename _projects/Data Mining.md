@@ -39,19 +39,19 @@ In this project some clustering algorithms were used to cluster data.
 #### 1. K-Means for Random Data
 First a set of random data was generated and then clustered using k-means algorithm. The issue with this problem is that we have to set the number of the clusters manually. To overcome this issue I used elbow method and calculated the cost function for 1 to 10 clusters and found the optimal number of clusters.
 <br>
-{% include figure.html path="assets/img/elbow.png" title="img" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/elbow.png" title="img" class="img-fluid rounded z-depth-1" width="200" %}
 <br>
 
 #### 2. K-Means for Digit Dataset
 In this section the digit dataset from Sklearn was used. K-means algorithm was applied to this dataset to group them into 10 clusters. Then the centroids were calculated. As it is shown below, the centroids almost accurately represent the labels of their clusters:
 <br>
-{% include figure.html path="assets/img/cluster-digit.png" title="img" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/cluster-digit.png" title="img" class="img-fluid rounded z-depth-1" width="300" %}
 <br>
 
 #### 3. K-Means for Image Compression
 In this section k-means algorithms was used to compress images. To achieve this goal the clustering was performed on the colors of the image. The image was reshaped into a matrix of shape (rows*cols, 3) and then each vector in the image was gouped into one of the 4 clusters using k-means algorithm. Then the image was reshaped back into its original shape and saved. The original and compressed images are shown below:
 <br>
-{% include figure.html path="assets/img/bird.png" title="img" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/bird.png" title="img" class="img-fluid rounded z-depth-1" width="300" %}
 <br>
 
 #### 3. DBSCAN for More Complex Data Clustering
@@ -67,15 +67,52 @@ If your data has more than 2 dimensions, choose MinPts = 2*dim, where dim= the d
 
 Also having the optimal eps, min pts can be obtained via testing different values. 
 <br>
-{% include figure.html path="assets/img/minpts.png" title="img" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/minpts.png" title="img" class="img-fluid rounded z-depth-1" width="300" %}
 <br>
 
 
 
 ### Association Rule Extraction
+Association rules represent relationships and interdependencies between large sets of data items.
+
+A common example of association rule discovery is "shopping cart analysis". In this process, according to the various items that customers put in their shopping carts, the buying habits and behavior of customers are analyzed, and by identifying the relationship between products, repeating patterns during shopping can be obtained.<br>
+
+Three important parameters:<br>
+
+Support shows the popularity of a set of items according to the frequency of transactions.<br>
+Confidence shows the probability of buying item y if item x is bought. x -> y<br>
+Lift is a combination of the above two parameters.<br>
+To implement association rules in this project, we use the Apriori algorithm, which is one of the most popular and efficient algorithms in this field.
+
+
+#### How does the Lift parameter affect the probability of occurrence
+The lift value calculates the probability of an item occurring if another item has occurred, while also considering the frequency of each of the two items.
+The amount of lift can be calculated using the following equation:<br>
+```
+lift = confidence / expected_confidence = confidence / ( s(body) * s(head) / s(body) ) = confidence / s(head)
+```
+The lift value can have values ​​from 0 to infinity<br>
+
+Three different scenarios can happen:<br>
+
+1. If the lift value is greater than 1, it indicates that the body and head of the rule appear together more than expected, meaning that the body event has a positive effect on the head event.
+2. If the lift value is less than 1, it means that the body and the head of the rule appeared together less than expected, and in this way, the occurrence of the body has a negative effect on the probability of the occurrence of the head.
+3. If the lift value is close to 1, it shows that the body and the head occur together almost as expected, meaning that the body event will not affect the head event.
+<br>
+
+#### Apriori Algorithm
+The algorithm works in a way that a minimum support value is considered and repetitions occur with frequent itemsets. If the sets and subsets have a support value lower than the threshold, they are removed. This process continues until there is no possibility of deletion.<br>
+
+First I prepared the dataset in the form of a sparse matrix with the purchased products in the column and the purchase order number as the index. For convenience, the purchased products were coded using 0 and 1 in each column. Then by using `TransactionEncoder` function from `mlxtend.preprocessing` the transaction were encoded. Finaly the apriory algithm was applied with a min_support of 0.07 .
+<br>
+{% include figure.html path="assets/img/apriori.png" title="img" class="img-fluid rounded z-depth-1" width="300" %}
+<br>
+
+Then the implemented `extract_rules` function was used with dynamic lift and confidence values to extract association rules.
+
 
 ### Diabetes Detection
-In this project a Diabetes detection model has been constructed using XGBoost or Extreme Gradient Boost, which is an open source library used for parallel tree boosting. After construnction the model, it is trained on the information of more than 70,000 patients through the questionnaire that they filled out for the Organization for Disease Control and Prevention.
+In this project a Diabetes detection model has been constructed using XGBoost or Extreme Gradient Boost, which is an open source library used for parallel tree boosting. After construnction the model, it is trained on the information of more than 70,000 patients through the questionnaire that they filled out for the Organization for Disease Control and Prevention.<br>
 
 #### Dataset
 The data used in this project is the information of more than 70,000 patients through the questionnaire that they filled out for the Organization for Disease Control and Prevention. The dataset contains 22 columns as described bellow:
