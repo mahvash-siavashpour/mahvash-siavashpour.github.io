@@ -1,19 +1,18 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Mahvash Siavashpour
+position: M.Sc. Student at the University of Alberta under the supervision of Dr. Osmar Zaiane.
+affiliation: University of Alberta
+email: siavashp (at) ualberta.ca
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: University of Alberta, M.Sc. Student, Machine Learning, Data Mining, Data Science, Artificial Intelligence
+description: M.Sc. Student at the University of Alberta under the supervision of Dr. Osmar Zaiane.
+canonical:
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
+google_scholar: https://scholar.google.com/citations?user=3-UzUzIAAAAJ&hl=en
 github_link: https://github.com/
 linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
