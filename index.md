@@ -13,7 +13,7 @@ I am a M.SC. student at the University of Alberta working on NLP, LLM reasoning 
 
 ## Research Interests
 
-Natural Language Processing, 
+Natural Language Processing, Reinforcement Learning, Representation Learning
 
 <!-- ## News
 
