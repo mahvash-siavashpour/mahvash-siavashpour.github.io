@@ -1,7 +1,7 @@
 main:
 
   - title: A Multimodal Deep Learning Ensemble Framework for Building a Spine Surgery Triage System
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    # authors: 
     conference_short: MedInfo
     conference: 20th World Congress on Medical and Health Informatics
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -10,13 +10,31 @@ main:
     # image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  - title: Semi-Automated Construction of Sense-Annotated Datasets for Practically Any Language
+    # authors: 
+    conference_short: COLING 2025
+    conference: 31st International Conference on Computational Linguistics (COLING 2025)
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
+
+  - title: Developing a triage model for surgical referral from primary care based on spinal radiology reports using natural language processing (NLP) and large language models (LLMs)
+    conference: The 19th International Back and Neck Pain Research Forum 2025
+
+  - title: A Multimodal Deep Learning Ensemble Framework for Building a Spine Surgery Triage System
+    # authors: 
+    conference_short: MedInfo
+    conference: 20th World Congress on Medical and Health Informatics
+
+  - title: UAlberta at SemEval-2024 Task 1: A Potpourri of Methods for Quantifying Multilingual Semantic Textual Relatedness and Similarity
+    # authors: 
+    conference_short: MedInfoSemEval-2024
+    conference: In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)
+
+  - title: Modeling Human Lexical Decision-Making with Artificial Neural Networks and Evidence Accumulation Models
+    # authors: 
+    conference_short: CogSci 2023
+    conference: Proceedings of the Annual Meeting of the Cognitive Science Society 2023
