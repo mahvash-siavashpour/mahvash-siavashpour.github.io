@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a M.SC. student at the University of Alberta working on NLP, LLM reasoning and ML for Precision Health.
+I am a M.SC. student at the University of Alberta currently working on NLP, LLM reasoning and ML for Precision Health.
 
 ## Education
 
@@ -24,4 +24,4 @@ Natural Language Processing, Reinforcement Learning, Representation Learning
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
