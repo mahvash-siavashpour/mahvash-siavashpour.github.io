@@ -112,7 +112,7 @@ th { color: #444; }
 
 @media (prefers-color-scheme: dark) { th { color: #3eb7f0; }
   dt { color: #3eb7f0; } }
-img { max-width: 100%; }
+img { max-width: 60%; }
 
 header { width: 232px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; padding-top: 4.0em; text-align: center; }
 
