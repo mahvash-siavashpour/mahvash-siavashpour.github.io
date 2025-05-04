@@ -11,9 +11,8 @@ I am a M.SC. student at the University of Alberta currently working on NLP, LLM 
 - **University of Alberta**, M.Sc., Computing Science, 2023-Now
 - **Amirkabir University (Tehran Polytechnic)**, B.Sc., Computer Science, 2018-2023
 
-## Research Interests
+## Experiences
 
-Natural Language Processing, Reinforcement Learning, Representation Learning
 
 <!-- ## News
 
