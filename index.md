@@ -12,6 +12,10 @@ I am a M.SC. student at the University of Alberta currently working on NLP, LLM 
 - **Amirkabir University (Tehran Polytechnic)**, B.Sc., Computer Science, 2018-2023
 
 
+{% include_relative _includes/publications.md %}
+
+
+
 ## Publications
 - **A Multimodal Deep Learning Ensemble Framework for Building a Spine Surgery Triage System**, 20th World Congress on Medical and Health Informatics
 
@@ -33,6 +37,5 @@ I am a M.SC. student at the University of Alberta currently working on NLP, LLM 
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
-{% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
