@@ -15,7 +15,7 @@ main:
     conference_short: MedInfo
     conference: 20th World Congress on Medical and Health Informatics
 
-  - title: UAlberta at SemEval-2024 Task 1: A Potpourri of Methods for Quantifying Multilingual Semantic Textual Relatedness and Similarity
+  - title: "UAlberta at SemEval-2024 Task 1: A Potpourri of Methods for Quantifying Multilingual Semantic Textual Relatedness and Similarity"
     conference_short: MedInfoSemEval-2024
     conference: In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)
 
