@@ -1,30 +1,21 @@
 main:
 
-  - title: A Multimodal Deep Learning Ensemble Framework for Building a Spine Surgery Triage System
-    conference_short: MedInfo
-    conference: 20th World Congress on Medical and Health Informatics
-    authors:
+  - title: Amirkabir University of Technology, Undergraduate Research Assistant
+    conference_short: Under supervision of Dr. Hossein Zeinali
+    conference: Implemented a BERT-based automatic punctuation and paragraph restoration model
+    authors: 2022-2023
+    image: ./assets/img/Amirkabir.jpg
 
-  - title: Semi-Automated Construction of Sense-Annotated Datasets for Practically Any Language
-    conference_short: COLING 2025
-    conference: 31st International Conference on Computational Linguistics (COLING 2025)
-    authors:
+  - title: Institute for Cognitive and Brain Sciences, Undergraduate Research Intern
+    conference_short: 
+    conference: 
+    authors: 2021-2023
+    image: ./assets/img/Brain.jpg
 
-  - title: Developing a triage model for surgical referral from primary care based on spinal radiology reports using natural language processing (NLP) and large language models (LLMs)
-    conference: The 19th International Back and Neck Pain Research Forum 2025
-    authors:
+  - title: Institute for Research in Fundamental Sciences (IPM), Undergraduate Research Intern
+    conference_short: Under supervision of Dr. Dara Rahmati
+    conference: Employed a combination of CNN and Sequential Sampling models for modeling a human decision-making process
+    authors: 2020-2021
+    image: ./assets/img/IPM.jpg
 
-  - title: A Multimodal Deep Learning Ensemble Framework for Building a Spine Surgery Triage System
-    conference_short: MedInfo
-    conference: 20th World Congress on Medical and Health Informatics
-    authors:
-
-  - title: "UAlberta at SemEval-2024 Task 1: A Potpourri of Methods for Quantifying Multilingual Semantic Textual Relatedness and Similarity"
-    conference_short: MedInfoSemEval-2024
-    conference: In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)
-    authors:
-
-  - title: Modeling Human Lexical Decision-Making with Artificial Neural Networks and Evidence Accumulation Models
-    conference_short: CogSci 2023
-    conference: Proceedings of the Annual Meeting of the Cognitive Science Society 2023
-    authors:
+    
