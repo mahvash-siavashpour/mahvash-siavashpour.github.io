@@ -160,7 +160,7 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
   header { padding: 0; }
   pre, code { word-wrap: normal; } }
 @media print, screen and (max-width: 480px) { .pub-row { display: block; align-items: center; }
-  body { padding: 15px; }
+  body { padding: 5px; }
   header ul { width: 99%; }
   header li, header ul li + li + li { width: 33%; }
   .image.avatar img { border-radius: 100%; width: 95px; padding: 20px; }
