@@ -23,8 +23,6 @@ I am a M.SC. student at the University of Alberta currently working on NLP, LLM 
 
 - **Developing a triage model for surgical referral from primary care based on spinal radiology reports using natural language processing (NLP) and large language models (LLMs)**, The 19th International Back and Neck Pain Research Forum 2025
 
-- **A Multimodal Deep Learning Ensemble Framework for Building a Spine Surgery Triage System**, 20th World Congress on Medical and Health Informatics
-
 - **UAlberta at SemEval-2024 Task 1: A Potpourri of Methods for Quantifying Multilingual Semantic Textual Relatedness and Similarity**, In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)
 
 - **Modeling Human Lexical Decision-Making with Artificial Neural Networks and Evidence Accumulation Models**, Proceedings of the Annual Meeting of the Cognitive Science Society 2023
