@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a M.SC. student at the University of Alberta currently working on NLP, LLM reasoning and ML for Precision Health.
+I am a M.Sc. student at the University of Alberta. I am interested in LLM reasoning, Conditional Computation, Anytime Neural Networks and Precision Health.
 
 ## Education
 
