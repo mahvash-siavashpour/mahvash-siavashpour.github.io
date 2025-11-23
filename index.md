@@ -30,6 +30,25 @@ I have 5+ years of experience spanning academic Machine Learning research, appli
 - **Modeling Human Lexical Decision-Making with Artificial Neural Networks and Evidence Accumulation Models**, Proceedings of the Annual Meeting of the Cognitive Science Society 2023
 
 
+## Licenses & Certifications
+
+### DLRL 2025  
+**Issuer:** Amii (Alberta Machine Intelligence Institute)  
+**Issued:** Aug 2025  
+**Credential ID:** 157687298  
+**Credential:** https://certificates.amii.ca/9fdb19f2-8b8a-4c8b-ab37-5473359fa08f#acc.zwqWn5gY  
+
+- Reinforcement Learning and Large Language Models (LLM)
+
+---
+
+### Work Integrated Learning Badge  
+**Issuer:** Amii (Alberta Machine Intelligence Institute)  
+**Issued:** Nov 2024  
+**Credential ID:** 124653940  
+**Credential:** https://www.credential.net/80e41bd7-42ab-4a0d-ba29-f19f39553010#acc.JpQfgPOR  
+
+
 <!-- ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
