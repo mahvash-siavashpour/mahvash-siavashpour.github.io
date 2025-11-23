@@ -1,31 +1,31 @@
 main:
 
-  - title: AltaML, Associate Machine Learning Developer
+  - title: Associate Machine Learning Developer
     conference_short: 2025-Present
     conference: Built agentic LangChain systems for document processing, created a real-time LLM-as-a-judge evaluation pipeline, and shipped a production RAG chatbot
-    authors: Canada
+    authors: AltaML
     image: ./assets/img/AltaML.png
 
-  - title: Alberta Machine Intelligence Institute (Amii), Work Integrated Learning Opportunity
+  - title: Work Integrated Learning Opportunity
     conference_short: 2024-2025
     conference: Co-authored technical reports, translated ML concepts for non-technical partners, and proposed AI solutions to 5+ startups across healthtech, vision, and forecasting
-    authors: Canada
+    authors: Alberta Machine Intelligence Institute (Amii)
     image: ./assets/img/Amii.png
 
-  - title: University of Alberta, Graduate Research Assistant
+  - title: Graduate Research Assistant 
     conference_short: 2024-Present
     conference: Benchmarked a surgical triage task with LLM decision makers, boosting ROC-AUC by 10% via fine-tuning, DPO post-training, CoT reasoning, and synthetic data generation
-    authors: Canada
+    authors: University of Alberta
     image: ./assets/img/UAlberta.png
 
-  - title: Amirkabir University of Technology, Undergraduate Research Assistant
+  - title: Undergraduate Research Assistant
     conference_short: 2022-2023
     conference: Designed a transformer-based (BERT) sequence labeling model for joint punctuation insertion and sentence boundary detection with baseline benchmarking
-    authors: Iran
+    authors: Amirkabir University of Technology
     image: ./assets/img/Amirkabir.png
 
-  - title: Institute for Cognitive and Brain Sciences, Research Intern
+  - title: Research Intern
     conference_short: 2021-2023
     conference: Modeled human lexical decision making using machine learning, evidence accumulation models, and Bayesian inference approaches
-    authors: Iran
+    authors: Institute for Cognitive and Brain Sciences
     image: ./assets/img/Brain.png
