@@ -182,10 +182,15 @@ papertitle {
     font-size: 100%;
   }
 
+body {
+    font-size: 16px;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #20212b;
         color: #dadbdf;
+        font-size: 16px;
     }
 
     autocolor{
@@ -352,7 +357,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  width:1040px;
   margin:0 auto;
 }
 
@@ -412,11 +417,12 @@ img {
 }
 
 header {
-  width:232px;
+  width:200px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   padding-top:4.0em;
+  padding-left:20px;
   text-align:center;
   animation: slideInLeft 0.6s ease-out;
 }
@@ -500,10 +506,11 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:760px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
+  padding-right:20px;
   animation: fadeIn 0.6s ease-in;
 }
 
@@ -530,15 +537,16 @@ hr {
 }
 
 footer {
-  width:232px;
+  width:200px;
   float:left;
   position:fixed;
   bottom:30px;
+  padding-left:20px;
   -webkit-font-smoothing:subpixel-antialiased;
   text-align:center;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1040px) {
 
   .pub-row {
   display: flex; 
@@ -593,7 +601,7 @@ footer {
   
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1040px) {
   body {
     word-wrap:break-word;
     padding:15px;

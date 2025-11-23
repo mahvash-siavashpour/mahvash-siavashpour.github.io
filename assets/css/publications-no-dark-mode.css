@@ -64,9 +64,13 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .title { 
   font-weight: 700; 
-  font-size: 1.05em;
+  font-size: 1.1em;
   line-height: 1.4;
   margin-bottom: 0.5rem;
+}
+
+.publications ol.bibliography li .author { 
+  font-size: 15px;
 }
 
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
@@ -74,6 +78,10 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li .author a:hover { border-bottom-style: solid; text-decoration: none; }
 
 .publications ol.bibliography li .author > em { border-bottom: 1px solid; font-style: normal; }
+
+.publications ol.bibliography li .periodical { 
+  font-size: 15px;
+}
 
 .publications ol.bibliography li .links a.btn { 
   color: #000000; 
