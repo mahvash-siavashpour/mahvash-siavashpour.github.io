@@ -4,16 +4,19 @@ main:
     conference_short: 2025-Present
     conference: Built agentic LangChain systems for document processing, created a real-time LLM-as-a-judge evaluation pipeline, and shipped a production RAG chatbot
     authors: Canada
+    image: ./assets/img/AltaML.svg
 
   - title: Alberta Machine Intelligence Institute (Amii), Work Integrated Learning Opportunity
     conference_short: 2024-2025
     conference: Co-authored technical reports, translated ML concepts for non-technical partners, and proposed AI solutions to 5+ startups across healthtech, vision, and forecasting
     authors: Canada
+    image: ./assets/img/Amii.svg
 
   - title: University of Alberta, Graduate Research Assistant
     conference_short: 2024-Present
     conference: Benchmarked a surgical triage task with LLM decision makers, boosting ROC-AUC by 10% via fine-tuning, DPO post-training, CoT reasoning, and synthetic data generation
     authors: Canada
+    image: ./assets/img/UAlberta.svg
 
   - title: Amirkabir University of Technology, Undergraduate Research Assistant
     conference_short: 2022-2023

@@ -1,0 +1,19 @@
+<svg width="320" height="180" viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AltaML Experience</title>
+  <desc id="desc">Stylized AltaML logotype for the experience section</desc>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00a2ff" />
+      <stop offset="100%" stop-color="#0050b8" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f7f9fc" />
+      <stop offset="100%" stop-color="#d8ecff" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="180" rx="20" fill="url(#grad)" />
+  <path d="M30 140 L70 60 L110 140 Z" fill="url(#accent)" opacity="0.95" />
+  <path d="M60 110 H140 C170 110 175 70 205 70 H290" stroke="#fefefe" stroke-width="8" fill="none" stroke-linecap="round" />
+  <text x="40" y="150" font-family="'Avenir Next', 'Segoe UI', sans-serif" font-size="48" font-weight="600" fill="#ffffff">Alta<tspan fill="#c7f2ff">ML</tspan></text>
+  <text x="42" y="50" font-family="'Avenir Next', 'Segoe UI', sans-serif" font-size="18" letter-spacing="3" fill="#e0f4ff">APPLIED AI LAB</text>
+</svg>

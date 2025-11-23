@@ -1,0 +1,23 @@
+<svg width="320" height="180" viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">University of Alberta Experience</title>
+  <desc id="desc">Shield inspired graphic in U of A colors</desc>
+  <defs>
+    <linearGradient id="ualberta-green" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#005c23" />
+      <stop offset="100%" stop-color="#019b4f" />
+    </linearGradient>
+    <linearGradient id="ualberta-gold" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffe38b" />
+      <stop offset="100%" stop-color="#f5c400" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="180" rx="20" fill="url(#ualberta-green)" />
+  <path d="M160 40 L220 60 L220 120 L160 140 L100 120 L100 60 Z" fill="#ffffff" opacity="0.1" />
+  <path d="M160 50 C200 50 230 80 230 120 C230 140 210 150 160 160 C110 150 90 140 90 120 C90 80 120 50 160 50 Z" fill="url(#ualberta-gold)" stroke="#ffffff" stroke-width="4" />
+  <path d="M130 90 H190 V110 C190 125 178 140 160 140 C142 140 130 125 130 110 Z" fill="#fff2c6" />
+  <path d="M140 90 V80 C140 70 150 65 160 65 C170 65 180 70 180 80 V90" stroke="#0b4d26" stroke-width="6" stroke-linecap="round" />
+  <circle cx="130" cy="105" r="7" fill="#0b4d26" />
+  <circle cx="190" cy="105" r="7" fill="#0b4d26" />
+  <text x="24" y="160" font-family="'Avenir Next', 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#ffffff">UNIVERSITY OF ALBERTA</text>
+  <text x="42" y="40" font-family="'Avenir Next', 'Segoe UI', sans-serif" font-size="16" letter-spacing="4" fill="#e9ffda">RESEARCH</text>
+</svg>
