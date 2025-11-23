@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a M.Sc. student at the University of Alberta. I am interested in LLM reasoning, Conditional Computation, Anytime Neural Networks and Precision Health.
+I am a M.Sc. student at the University of Alberta, supervised by <a href="https://webdocs.cs.ualberta.ca/~zaiane/">Dr. Osmar Zaiane</a>. My research interests include large language model (LLM) reasoning, conditional computation, anytime neural networks, and precision health.
+
+I have 5+ years of experience spanning academic Machine Learning research, applied industry projects especializing on Large Language Models, NLP, Reinforcement Learning, and agentic AI.
 
 ## Education
 
