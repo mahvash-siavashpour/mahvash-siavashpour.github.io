@@ -10,8 +10,8 @@ I have 5+ years of experience spanning academic Machine Learning research, appli
 
 ## Education
 
-- **University of Alberta**, M.Sc., Computing Science, 2023-Now
-- **Amirkabir University (Tehran Polytechnic)**, B.Sc., Computer Engineering, 2018-2023
+- **M.Sc.\ in Computer Science**, University of Alberta, 2023-Now
+- **B.Sc. in Computer Engineering**, Amirkabir University (Tehran Polytechnic), 2018-2023
 
 
 {% include_relative _includes/publications.md %}
