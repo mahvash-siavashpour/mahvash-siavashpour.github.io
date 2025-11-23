@@ -6,7 +6,7 @@ main:
     authors: AltaML
     image: ./assets/img/AltaML.png
 
-  - title: Work Integrated Learning Opportunity
+  - title: Work Integrated Learning Opportunity (WILO)
     conference_short: 2024-2025
     conference: Co-authored technical reports, translated ML concepts for non-technical partners, and proposed AI solutions to 5+ startups across healthtech, vision, and forecasting
     authors: Alberta Machine Intelligence Institute (Amii)
