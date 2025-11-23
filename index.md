@@ -8,15 +8,18 @@ I am a M.Sc. student at the University of Alberta, supervised by <a href="https:
 
 I have 5+ years of experience spanning academic Machine Learning research, applied industry projects especializing on Large Language Models, NLP, Reinforcement Learning, and agentic AI.
 
+---
+
 ## Education
 
 - **M.Sc. in Computer Science**, University of Alberta, 2023-Now
 - **B.Sc. in Computer Engineering**, Amirkabir University (Tehran Polytechnic), 2018-2023
 
+---
 
 {% include_relative _includes/publications.md %}
 
-
+---
 
 ## Publications
 - **A Multimodal Deep Learning Ensemble Framework for Building a Spine Surgery Triage System**, 20th World Congress on Medical and Health Informatics
@@ -29,6 +32,7 @@ I have 5+ years of experience spanning academic Machine Learning research, appli
 
 - **Modeling Human Lexical Decision-Making with Artificial Neural Networks and Evidence Accumulation Models**, Proceedings of the Annual Meeting of the Cognitive Science Society 2023
 
+---
 
 ## Licenses & Certifications
 
@@ -38,7 +42,6 @@ I have 5+ years of experience spanning academic Machine Learning research, appli
 **Credential ID:** 157687298  
 **Credential:** [Certificate](https://certificates.amii.ca/9fdb19f2-8b8a-4c8b-ab37-5473359fa08f#acc.zwqWn5gY)
 
----
 
 ### Work Integrated Learning Badge  
 **Issuer:** Amii (Alberta Machine Intelligence Institute)  
