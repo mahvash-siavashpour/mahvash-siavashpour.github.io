@@ -36,9 +36,7 @@ I have 5+ years of experience spanning academic Machine Learning research, appli
 **Issuer:** Amii (Alberta Machine Intelligence Institute)  
 **Issued:** Aug 2025  
 **Credential ID:** 157687298  
-**Credential:** https://certificates.amii.ca/9fdb19f2-8b8a-4c8b-ab37-5473359fa08f#acc.zwqWn5gY  
-
-- Reinforcement Learning and Large Language Models (LLM)
+**Credential:** [](https://certificates.amii.ca/9fdb19f2-8b8a-4c8b-ab37-5473359fa08f#acc.zwqWn5gY)
 
 ---
 
@@ -46,7 +44,7 @@ I have 5+ years of experience spanning academic Machine Learning research, appli
 **Issuer:** Amii (Alberta Machine Intelligence Institute)  
 **Issued:** Nov 2024  
 **Credential ID:** 124653940  
-**Credential:** https://www.credential.net/80e41bd7-42ab-4a0d-ba29-f19f39553010#acc.JpQfgPOR  
+**Credential:** [](https://www.credential.net/80e41bd7-42ab-4a0d-ba29-f19f39553010#acc.JpQfgPOR)
 
 
 <!-- ## News
