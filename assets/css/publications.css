@@ -162,6 +162,139 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
 }
 
+/* Timeline style for Experiences section */
+.publications {
+  margin-top: 1.2rem;
+}
+
+.experience-timeline {
+  position: relative;
+  padding: 0.2rem 0 0.5rem;
+}
+
+.timeline-item {
+  display: grid;
+  grid-template-columns: 180px 30px minmax(140px, 1fr);
+  column-gap: 0;
+  align-items: center;
+  margin: 1.3rem 0;
+}
+
+.timeline-year {
+  color: #a9a9a9;
+  font-size: 2rem;
+  font-weight: 500;
+  text-align: right;
+  padding-right: 12px;
+  line-height: 1.1;
+  letter-spacing: 0.01em;
+}
+
+.timeline-center {
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  justify-content: center;
+}
+
+.timeline-center::before {
+  content: "";
+  position: absolute;
+  top: -22px;
+  bottom: -22px;
+  width: 4px;
+  background-color: #c9c9c9;
+  border-radius: 4px;
+}
+
+.timeline-dot {
+  width: 20px;
+  height: 20px;
+  background-color: #c9c9c9;
+  border-radius: 50%;
+  z-index: 1;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.timeline-content {
+  display: flex;
+  align-items: center;
+  min-height: 110px;
+  padding-left: 20px;
+}
+
+.timeline-logo {
+  width: 80px;
+  max-height: 105px;
+  object-fit: contain;
+  object-position: left center;
+  flex-shrink: 0;
+}
+
+.timeline-details {
+  margin-left: 16px;
+}
+
+.timeline-role {
+  font-weight: 700;
+  color: #333333;
+  margin-bottom: 0.15rem;
+}
+
+.timeline-org {
+  color: #666666;
+  margin-bottom: 0.2rem;
+}
+
+.timeline-highlights {
+  color: #7d7d7d;
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+@media (max-width: 740px) {
+  .timeline-item {
+    grid-template-columns: 1fr;
+    row-gap: 0.45rem;
+    margin: 1rem 0 1.4rem;
+  }
+
+  .timeline-year {
+    text-align: left;
+    padding-right: 0;
+    font-size: 1.4rem;
+  }
+
+  .timeline-center {
+    height: 22px;
+    justify-content: flex-start;
+  }
+
+  .timeline-center::before {
+    top: 9px;
+    bottom: auto;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: 4px;
+  }
+
+  .timeline-content {
+    padding-left: 0;
+    min-height: auto;
+  }
+
+  .timeline-logo {
+    width: 72px;
+    max-height: 90px;
+  }
+
+  .timeline-details {
+    margin-left: 12px;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   .publications ol.bibliography li .teaser {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);

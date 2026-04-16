@@ -1,50 +1,36 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Experiences</h2>
 
 <div class="publications">
-<ol class="bibliography">
+  <div class="experience-timeline">
+    {% for link in site.data.publications.main %}
+    {% assign year_text = link.year_range | default: link.conference_short %}
+    {% assign logo_path = link.logo | default: link.image %}
+    {% assign role_text = link.role | default: link.title %}
+    {% assign org_text = link.organization | default: link.authors %}
+    {% assign highlights_text = link.highlights | default: link.conference %}
 
-{% for link in site.data.publications.main %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="">
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-    {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
+    <div class="timeline-item">
+      <div class="timeline-year">{{ year_text }}</div>
+      <div class="timeline-center">
+        <span class="timeline-dot"></span>
       </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
+      <div class="timeline-content">
+        {% if logo_path %}
+        <img src="{{ logo_path }}" class="timeline-logo" alt="{{ org_text }}">
+        {% endif %}
+        <div class="timeline-details">
+          {% if role_text %}
+          <div class="timeline-role">{{ role_text }}</div>
+          {% endif %}
+          {% if org_text %}
+          <div class="timeline-org">{{ org_text }}</div>
+          {% endif %}
+          {% if highlights_text %}
+          <div class="timeline-highlights">{{ highlights_text }}</div>
+          {% endif %}
+        </div>
+      </div>
     </div>
+    {% endfor %}
   </div>
-</div>
-</li>
-
-{% endfor %}
-
-</ol>
 </div>
