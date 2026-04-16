@@ -15,18 +15,19 @@
         <span class="timeline-dot"></span>
       </div>
       <div class="timeline-content">
-        {% if logo_path %}
-        <img src="{{ logo_path }}" class="timeline-logo" alt="{{ org_text }}">
-        {% endif %}
-        <div class="timeline-details">
-          {% if role_text %}
-          <div class="timeline-role">{{ role_text }}</div>
+        <div class="timeline-logo-wrap">
+          {% if logo_path %}
+          <img src="{{ logo_path }}" class="timeline-logo" alt="Experience logo">
           {% endif %}
-          {% if org_text %}
-          <div class="timeline-org">{{ org_text }}</div>
-          {% endif %}
+        </div>
+        <div class="timeline-text">
+          <p class="timeline-summary">
+            {% if role_text %}<strong>{{ role_text }}</strong>{% endif %}
+            {% if role_text and org_text %} at {% endif %}
+            {% if org_text %}{{ org_text }}{% endif %}.
+          </p>
           {% if highlights_text %}
-          <div class="timeline-highlights">{{ highlights_text }}</div>
+          <p class="timeline-highlights">{{ highlights_text }}</p>
           {% endif %}
         </div>
       </div>

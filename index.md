@@ -22,15 +22,15 @@ I have 5+ years of experience spanning academic Machine Learning research, appli
 ---
 
 ## Publications
-- **A Multimodal Deep Learning Ensemble Framework for Building a Spine Surgery Triage System**, 20th World Congress on Medical and Health Informatics
+- **[A Multimodal Deep Learning Ensemble Framework for Building a Spine Surgery Triage System](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3-UzUzIAAAAJ&citation_for_view=3-UzUzIAAAAJ:9yKSN-GCB0IC)**, 20th World Congress on Medical and Health Informatics
 
-- **Semi-Automated Construction of Sense-Annotated Datasets for Practically Any Language**, 31st International Conference on Computational Linguistics (COLING 2025)
+- **[Semi-Automated Construction of Sense-Annotated Datasets for Practically Any Language](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3-UzUzIAAAAJ&citation_for_view=3-UzUzIAAAAJ:d1gkVwhDpl0C)**, 31st International Conference on Computational Linguistics (COLING 2025)
 
 - **Developing a triage model for surgical referral from primary care based on spinal radiology reports using natural language processing (NLP) and large language models (LLMs)**, The 19th International Back and Neck Pain Research Forum 2025
 
-- **UAlberta at SemEval-2024 Task 1: A Potpourri of Methods for Quantifying Multilingual Semantic Textual Relatedness and Similarity**, In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)
+- **[UAlberta at SemEval-2024 Task 1: A Potpourri of Methods for Quantifying Multilingual Semantic Textual Relatedness and Similarity](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3-UzUzIAAAAJ&citation_for_view=3-UzUzIAAAAJ:u5HHmVD_uO8C)**, In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)
 
-- **Modeling Human Lexical Decision-Making with Artificial Neural Networks and Evidence Accumulation Models**, Proceedings of the Annual Meeting of the Cognitive Science Society 2023
+- **[Modeling Human Lexical Decision-Making with Artificial Neural Networks and Evidence Accumulation Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3-UzUzIAAAAJ&citation_for_view=3-UzUzIAAAAJ:u-x6o8ySG0sC)**, Proceedings of the Annual Meeting of the Cognitive Science Society 2023
 
 ---
 
