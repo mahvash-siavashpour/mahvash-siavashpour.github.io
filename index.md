@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a M.Sc. student at the University of Alberta, supervised by <a href="https://webdocs.cs.ualberta.ca/~zaiane/">Dr. Osmar Zaiane</a>. My research interests include conditional computation, continual learning and precision health.
+I am a research assistant at <a href="https://www.amii.ca/">Amii</a> and the University of Alberta, working with <a href="https://webdocs.cs.ualberta.ca/~bowling/">Dr. Michael Bowling</a>. My research interests include conditional compute in neural networks, continual learning and cognitive science.
 
 I have 5+ years of experience spanning academic Machine Learning research, applied industry projects especializing on Large Language Models, NLP, Reinforcement Learning, and agentic AI.
 
@@ -12,7 +12,7 @@ I have 5+ years of experience spanning academic Machine Learning research, appli
 
 ## Education
 
-- **M.Sc. in Computer Science**, University of Alberta, 2023-Now
+- **M.Sc. in Computer Science**, University of Alberta, 2023-2026
 - **B.Sc. in Computer Engineering**, Amirkabir University (Tehran Polytechnic), 2018-2023
 
 ---

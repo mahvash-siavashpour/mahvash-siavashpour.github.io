@@ -177,26 +177,26 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 197px;
-  width: 4px;
+  left: 163px;
+  width: 3px;
   background-color: #c9c9c9;
   border-radius: 4px;
 }
 
 .timeline-item {
   display: grid;
-  grid-template-columns: 180px 34px minmax(260px, 1fr);
+  grid-template-columns: 150px 26px minmax(240px, 1fr);
   column-gap: 0;
   align-items: center;
-  margin: 1.6rem 0;
+  margin: 1.15rem 0;
 }
 
 .timeline-year {
   color: #a9a9a9;
-  font-size: 2rem;
+  font-size: 1.55rem;
   font-weight: 600;
   text-align: right;
-  padding-right: 14px;
+  padding-right: 10px;
   line-height: 1.1;
   letter-spacing: 0.01em;
 }
@@ -208,8 +208,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 }
 
 .timeline-dot {
-  width: 22px;
-  height: 22px;
+  width: 16px;
+  height: 16px;
   background-color: #c9c9c9;
   border-radius: 50%;
   z-index: 1;
@@ -218,14 +218,14 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .timeline-content {
   display: flex;
   align-items: center;
-  min-height: 102px;
-  padding-left: 22px;
-  gap: 18px;
+  min-height: 76px;
+  padding-left: 16px;
+  gap: 12px;
 }
 
 .timeline-logo-wrap {
-  width: 98px;
-  height: 98px;
+  width: 72px;
+  height: 72px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -233,8 +233,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 }
 
 .timeline-logo {
-  width: 98px;
-  height: 98px;
+  width: 72px;
+  height: 72px;
   object-fit: contain;
   object-position: center center;
   display: block;
@@ -249,7 +249,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
   margin: 0;
   color: #2f2f2f;
   line-height: 1.45;
-  font-size: 1.02rem;
+  font-size: 0.95rem;
 }
 
 .timeline-summary {
@@ -263,14 +263,14 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 @media (max-width: 740px) {
   .timeline-item {
     grid-template-columns: 1fr;
-    row-gap: 0.5rem;
-    margin: 1rem 0 1.4rem;
+    row-gap: 0.4rem;
+    margin: 0.8rem 0 1.1rem;
   }
 
   .timeline-year {
     text-align: left;
     padding-right: 0;
-    font-size: 1.35rem;
+    font-size: 1.1rem;
   }
 
   .experience-timeline::before {
@@ -278,25 +278,25 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
   }
 
   .timeline-center {
-    height: 24px;
+    height: 18px;
     justify-content: flex-start;
   }
 
   .timeline-content {
     padding-left: 0;
     min-height: auto;
-    gap: 12px;
+    gap: 10px;
   }
 
   .timeline-logo-wrap,
   .timeline-logo {
-    width: 88px;
-    height: 88px;
+    width: 64px;
+    height: 64px;
   }
 
   .timeline-summary,
   .timeline-highlights {
-    font-size: 0.95rem;
+    font-size: 0.88rem;
   }
 }
 
