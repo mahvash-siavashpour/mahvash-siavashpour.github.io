@@ -6,17 +6,17 @@ main:
     role: Associate Machine Learning Developer
     highlights: Built agentic LangChain systems for document processing, created a real-time LLM-as-a-judge evaluation pipeline, and shipped a production RAG chatbot.
 
-  - year_range: 2024 - 2025
-    logo: ./assets/img/Amii.png
-    organization: Alberta Machine Intelligence Institute (Amii)
-    role: Work Integrated Learning Opportunity (WILO)
-    highlights: Co-authored technical reports, translated ML concepts for non-technical partners, and proposed AI solutions to startups across healthtech, vision, and forecasting.
-
   - year_range: 2024 - 2026
     logo: ./assets/img/UAlberta.png
     organization: University of Alberta
     role: Graduate Research Assistant
     highlights: Benchmarked a surgical triage task with LLM decision-makers, improving ROC-AUC via fine-tuning, DPO post-training, chain-of-thought reasoning, and synthetic data generation.
+
+  - year_range: 2024 - 2025
+    logo: ./assets/img/Amii.png
+    organization: Alberta Machine Intelligence Institute (Amii)
+    role: Work Integrated Learning Opportunity (WILO)
+    highlights: Co-authored technical reports, translated ML concepts for non-technical partners, and proposed AI solutions to startups across healthtech, vision, and forecasting.
 
   - year_range: 2022 - 2023
     logo: ./assets/img/Amirkabir.png
