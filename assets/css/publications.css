@@ -193,7 +193,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .timeline-year {
   color: #a9a9a9;
-  font-size: 1.55rem;
+  font-size: 1.3rem;
   font-weight: 600;
   text-align: right;
   padding-right: 10px;
@@ -270,7 +270,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
   .timeline-year {
     text-align: left;
     padding-right: 0;
-    font-size: 1.1rem;
+    font-size: 0.95rem;
   }
 
   .experience-timeline::before {
