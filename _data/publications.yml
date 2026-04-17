@@ -1,6 +1,6 @@
 main:
 
-  - year_range: 2025 - Present
+  - year_range: 2025
     logo: ./assets/img/AltaML.png
     organization: AltaML
     role: Associate Machine Learning Developer
@@ -12,7 +12,7 @@ main:
     role: Work Integrated Learning Opportunity (WILO)
     highlights: Co-authored technical reports, translated ML concepts for non-technical partners, and proposed AI solutions to startups across healthtech, vision, and forecasting.
 
-  - year_range: 2024 - Present
+  - year_range: 2024 - 2026
     logo: ./assets/img/UAlberta.png
     organization: University of Alberta
     role: Graduate Research Assistant
